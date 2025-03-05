@@ -16,7 +16,7 @@ Measured interaction distance to study lipid-based CRISPR delivery.
 
 
 ## Setup Instructions
-To run this project, you need Conda and the required dependencies.
+To run this project, you need Conda and the required dependencies such as RDkit and PyMOL.
 
 
 # Create and activate conda environment/ Run Scripts
